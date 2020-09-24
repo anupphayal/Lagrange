@@ -1,32 +1,31 @@
 # Change 'comments' to true for Disqus comments
+title:  Seonghui Lee
+tagline:  
+author:
+  name: 'Paul Le'
+  twitter:  paululele
+
+# Change to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  disqus_shortname: ' '
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+#google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Home', url: '..'}
+- {name: 'Research', url: 'research.html'}
+- {name: 'Teaching', url: 'teaching.html'}
+- {name: 'Vitae', url: '../files/cv_anup_phayal_current.pdf'}
+#- {name: 'Links', url: 'links.html'}
+#- {name: 'Contact', url: 'contact.html'}
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
-- {icon: 'rss-square', link: '/feed.xml'}
-# - {icon: 'rss-square', link: '/rss-feed.xml'}
+#- {icon: 'github', link: 'https://www.github.com/seonghuilee'}
+- {icon: 'university', link: 'https://uncw.edu/pia/about/facstaff.html'}
+#- {icon: 'twitter', link: 'https://twitter.com/sky_nova'}
+- {icon: 'envelope', link: 'mailto:phayala@uncw.edu'}
 
-# Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
-
-related_posts: 'You may also enjoy:'
-
-post_date_prefix: 'Written on'
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer (http://fontawesome.io/icons/)
