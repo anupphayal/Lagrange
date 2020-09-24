@@ -1,29 +1,18 @@
-# Site Build Settings
+# Site Settings
 
-# Jekyll-paginate-v2 configuration
-#  pagination:
-#   enabled: true
-#   per_page: 5
-#   permalink: '/page/:num/'
-#   title: ':title - page :num of :max'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
-
-# jekyll-paginate configuration
-paginate:            5
+#paginate:            5
+baseurl: 
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+# feed settings
+title:		     "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
-#  path: rss-feed.xml
+#   path:	     rss-feed.xml
+exclude: [old_files]
