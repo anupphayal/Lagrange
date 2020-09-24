@@ -6,8 +6,8 @@ title: Home
 
 Welcome! I am an Assistant Professor in International Relations in the [Public and International Affairs](//https://uncw.edu/pia/) at the [University of North Carolina Wilmington](https://www.uncw.edu/). My research and teaching interests lie at the intersection of International Relations and Comparative Politics, focusing on political violence and post-conflict peace building. If you have any questions or if you want to reach out to me, please email me using the link below.
 
-<div style="height:50%; width:50%; border:0px solid black;">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=uueU&d=kDmjltf8SekE3nGJmnCmYNSGVMEvc5xmOlQ7Y4cbb3U" width="25%"></script>
+<div style="height:25%; border:0px solid black;">
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=uueU&d=kDmjltf8SekE3nGJmnCmYNSGVMEvc5xmOlQ7Y4cbb3U"></script>
  </div>
 
 
