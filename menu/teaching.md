@@ -17,23 +17,13 @@ p.small {
 [//]:  <li>Milk</li>
 [//]:</ol>
 
-* **Substantive**: comparative political behavior, comparative political institutions, public opinion, political psychology
-* **Methods**: survey methods and measurements, research design, experimental design, multilevel modeling
+* **Graduate**: National & International Security, Peacekeeping, Armed conflicts
+* **Undergraduate**: Intro to International Relations, Intro to Comparative Politics, International Security, Global Terrorism, Ethnic Conflict, Political Analysis
 
 <p class="small">
 <br>
 </p>
 ***
-## Teaching experience
 
-* Introduction to International Relations (UG; F2014)
 
-<p class="small">
-<br>
-</p>
-***
-## Pedagogical training
-
-* Completion of Online training, January 2017.
-* test
 
