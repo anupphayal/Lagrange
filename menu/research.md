@@ -82,5 +82,14 @@ One of the ways to end protracted, violent, intrastate conflict is negotiated se
     </p> <p> </p>
 
 
+<script src="https://code.jquery.com/jquery-latest.min.js"
+        type="text/javascript"></script>
 
+<script>
+$(document).ready(function(){
+  $(document).on('click touchstart','.cl', function() {
+    $(this).parent().children(".abstract").fadeToggle();
+  });
+});
+</script>
 
