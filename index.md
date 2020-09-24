@@ -8,7 +8,7 @@ Welcome! I am an Assistant Professor in International Relations in the [Public a
 
 <div style="height:50%; width:50%; border:0px solid black;">
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=uueU&d=kDmjltf8SekE3nGJmnCmYNSGVMEvc5xmOlQ7Y4cbb3U" width="25%"></script>
-
+ </div>
 
 
 
