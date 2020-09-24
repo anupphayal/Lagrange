@@ -1,25 +1,10 @@
 /*
-  Contents:
-    Base
-    Site container
-    Masthead
-    Thumbnail
-    Post
-    Pagination
-    Footer
-    Menu
-    Code
-    Tables
-    Social media icons
-*/
-
-/*
   Base
 */
 
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
-  font-size: 18px;
+  font-family: "Roboto", "Fira Sans", "Lato", "Quattrocento Sans", "PT Serif", Georgia, "Times New Roman", serif;
+  font-size: 15px;
   color: #515151;
   line-height: 1.75rem;
 }
@@ -43,7 +28,7 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Fira Sans", "Lato", "Quattrocento Sans", sans-serif;
   color: #333;
 }
 
@@ -64,15 +49,24 @@ img {
 }
 
 blockquote {
-  margin: 10px 20px 10px;
-  padding: 0px 15px;
-  border-left: 0.25em solid #ccc;
+  border-left: 0.25rem solid #ccc;
+  margin: 1.5em 10px;
   color: #999;
-  line-height: 1.5;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
 }
-
-hr {
-  border-top: 1px solid #ccc;
+/* SL
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+*/
+blockquote p {
+  display: inline;
 }
 
 /*
@@ -83,6 +77,12 @@ hr {
   margin-left: auto;
   margin-right: auto;
   width: 615px;
+}
+
+@media (max-width: 1366px) {
+  .container {
+    width: 56vw;
+  }
 }
 
 /*48em*/
@@ -100,8 +100,8 @@ hr {
 .masthead {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
+  margin-bottom: 3rem;
+  font-family: "Lato", "Quattrocento Sans", sans-serif;
 }
 
 .masthead a:hover {
@@ -116,22 +116,6 @@ hr {
 
 .masthead-subtitle {
   color: #999;
-}
-
-/*
-  Thumbnail
-*/
-
-.thumbnail-container {
-  max-width: 100%;
-  overflow: hidden;
-  border-radius: 5px;
-  margin-bottom: 25px;
-}
-
-.thumbnail-container img{
-  margin-top: -11.5%;
-  margin-bottom: -11.5%;
 }
 
 /*
@@ -153,7 +137,7 @@ hr {
   margin-top:3px;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: "Fira Sans", "Lato", 'Quattrocento Sans', sans-serif;
   font-size:0.8rem;
 }
 
@@ -182,7 +166,7 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: "Fira Sans", "Lato", 'Quattrocento Sans', sans-serif;
   text-align: center;
 }
 
@@ -269,91 +253,43 @@ hr {
   Code
 */
 
-code,
-pre {
-  font-family: "Source Code Pro", monospace;
-}
+pre,
 code {
-  padding: .25em .5em;
-  font-size: .8rem;
-  background-color: #f5f5f5;
-  border-radius: 3px;
-}
-pre {
-  display: block;
-  margin-top: 0;
-  margin-bottom: 1rem;
-  padding: 1rem;
-  font-size: .8rem;
-  line-height: 1.4;
-  white-space: pre;
-  white-space: pre-wrap;
-  word-break: break-all;
-  word-wrap: break-word;
-  background-color: #f5f5f5;
-}
-pre code {
-  padding: 0;
-  font-size: 100%;
-  color: inherit;
-  background-color: transparent;
+    font-size: 0.8rem;
+    border-radius: 3px;
+    background-color: #f5f5f5;
+    font-family: "Source Code Pro";
 }
 
-/* Horizontal code overflow fix */
-pre.highlight {
+code {
+    padding: 1px 5px;
+}
+
+pre {
+    padding: 8px 12px;
+    overflow-x: auto;
+
+    > code {
+        border: 0;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
+
+.highlight .lineno {
+  color: #aaa;
+  display:inline-block;
+  padding: 0 5px;
+  border-right:1px solid #ccc;
+}
+
+.highlight pre code {
+  display: block;
   white-space: pre;
   overflow-x: auto;
+  word-wrap: normal;
 }
 
-/* Pygments via Jekyll */
-.highlight {
-  margin-bottom: 1rem;
-  border-radius: 4px;
-}
-.highlight pre {
-  margin-bottom: 0;
-}
-
-/* Gist via GitHub Pages */
-.gist .gist-file {
-  font-family: "Source Code Pro", monospace !important;
-}
-.gist .markdown-body {
-  padding: 15px;
-}
-.gist pre {
-  padding: 0;
-  background-color: transparent;
-}
-.gist .gist-file .gist-data {
-  font-size: .8rem !important;
-  line-height: 1.4;
-}
-.gist code {
-  padding: 0;
-  color: inherit;
-  background-color: transparent;
-  border-radius: 0;
-}
-
-/*
-  Tables
-*/
-
-table {
-  border-collapse: collapse;
-  margin-bottom: 30px;
-  width: 100%;
-}
-
-table, th, td {
-  border: 1px solid black;
-}
-
-th, td {
-  padding: 15px;
-  text-align: left;
-}
 
 /*
   Social media icons
@@ -491,17 +427,4 @@ th, td {
 
 .fa-codepen:hover {
 	color: black;
-}
-
-.fa-rss-square {
-  padding: 5px;
-	-o-transition:.5s;
-  	-ms-transition:.5s;
-  	-moz-transition:.5s;
-  	-webkit-transition:.5s;
-  	transition: .5s;
-}
-
-.fa-rss-square:hover {
-	color: #ff6600;
 }
