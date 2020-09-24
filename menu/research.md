@@ -31,7 +31,6 @@ div .p {
 ***
 ## Peer-reviewed publications
 
-
 [//]:<ol reversed>
 [//]:  <li>Coffee</li>
 [//]:  <li>Tea</li>
