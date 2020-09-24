@@ -17,7 +17,7 @@ menu:
 - {name: 'Home', url: '..'}
 - {name: 'Research', url: 'research.html'}
 - {name: 'Teaching', url: 'teaching.html'}
-- {name: 'Vitae', url: '../files/cv_anup_phayal_current.pdf'}
+- {name: 'Vitae', url: 'https://uncw4-my.sharepoint.com/:b:/g/personal/phayala_uncw_edu/EbH2d5rjaB1GjtSMfhyGLG4BeSzcFBrkZ6PWnGVfhjzhLA?e=Ig0be2'}
 #- {name: 'Links', url: 'links.html'}
 #- {name: 'Contact', url: 'contact.html'}
 
