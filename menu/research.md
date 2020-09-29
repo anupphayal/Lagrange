@@ -80,6 +80,11 @@ Successful management of combatants through disarmament, demobilization, and rei
     <p class="abstract">
 One of the ways to end protracted, violent, intrastate conflict is negotiated settlement where the rebel parties negotiate with the government and give up armed struggle. However, the most intriguing puzzle is: what influences the rebels to come to the negotiating table and opt for peace? The Communist Party of Nepal (Maoists) and the Provisional Irish Republican Army (PIRA) are recent examples of rebel groups that have renounced violence and transformed into mainstream political parties after waging insurgency for many years. These two cases present an opportunity to analyze factors that lead rebel parties to renounce violence. In this article, I argue that violent rebel groups settle for peaceful means owing to their perception of the high cost of violence that arises from pressures exerted by the military means of a state, by domestic groups, and by the international community. In both cases, when the state opened up political space to accommodate the rebel group, accumulated pressures influenced them to renounce violence. The study indicates how civil society, with solidarity from the global community, is able to defy the mobilization narrative of a rebel group and pressure them to renounce violence.
     </p> <p> </p>
+    
+***
+## Work in progress
+
+* [Terrorism and trust](../files/research_folder/Full manuscript_terrorism and trust.pdf)
 
 
 <script src="https://code.jquery.com/jquery-latest.min.js"
