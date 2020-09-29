@@ -84,8 +84,11 @@ One of the ways to end protracted, violent, intrastate conflict is negotiated se
 ***
 ## Work in progress
 
-* [Terrorism and trust](../files/research_folder/Full manuscript_terrorism and trust.pdf)
+* [**"Terrorism and trust"**](../files/research_folder/Full manuscript_terrorism and trust.pdf)
 
+* [**"Community driven conflict resolution: Evidence from a RCT in Ivory Coast"**](../files/research_folder/Khadka and Phayal CDCR apsa sept 2020.pdf) (with Prabin Khadka)
+
+* [**"Terrorist targetting"**](../files/research_folder/Terrorist targetting.pdf) (with Brandon Prins & Sambuddha Ghatak)
 
 <script src="https://code.jquery.com/jquery-latest.min.js"
         type="text/javascript"></script>
