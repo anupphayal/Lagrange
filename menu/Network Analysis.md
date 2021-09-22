@@ -1,6 +1,6 @@
 ---
 layout: page3
-title: Research
+title: Networks
 ---
 <style>
 p.small {
