@@ -44,7 +44,7 @@ div .p {
 
 
 <div align="center">
-    <object data="../files/communication_network.html" width="400px"></object>
+    <object data="../files/communication_network.html" width="1000px"></object>
 </div>
   
 
