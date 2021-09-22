@@ -41,22 +41,28 @@ div .p {
 
 
 ***
-<script  .center-screen {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  min-height: 100vh;
-}   ></script>
+<head>
+    <style type="text/css">
+        html
+        {
+            width: 100%;
+            height: 100%;
+        }
 
-<html>
- <head>
- </head>
- <body>
- <div class="center-screen">
-     
+        body
+        {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
 <object data="../files/communication_network.html"></object>
+</body>
+     
+
      
  </div>
  </body>
