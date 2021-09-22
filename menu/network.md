@@ -41,14 +41,14 @@ div .p {
 
 
 ***
-.center-screen {
+<script  .center-screen {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
   min-height: 100vh;
-}
+}   ></script>
 
 <html>
  <head>
@@ -61,7 +61,7 @@ div .p {
  </div>
  </body>
  </html>
-    
+  
 
 
 <script src="https://code.jquery.com/jquery-latest.min.js"
