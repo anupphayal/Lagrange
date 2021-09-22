@@ -41,32 +41,13 @@ div .p {
 
 
 ***
-<head>
-    <style type="text/css">
-        html
-        {
-            width: 100%;
-            height: 100%;
-        }
 
-        body
-        {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-    </style>
-</head>
 
-<body>
-<object data="../files/communication_network.html"></object>
-</body>
-     
 
-     
- </div>
- </body>
- </html>
+
+<div align="center">
+    <object data="../files/communication_network.html" width="400px"></object>
+</div>
   
 
 
