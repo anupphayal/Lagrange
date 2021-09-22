@@ -15,9 +15,12 @@ disqus:
 
 menu:
 - {name: 'Home', url: '..'}
+- {name: 'Vitae', url: '../files/cv_anup_phayal_Oct_2020.pdf'}
 - {name: 'Research', url: 'research.html'}
 - {name: 'Teaching', url: 'teaching.html'}
-- {name: 'Vitae', url: '../files/cv_anup_phayal_Oct_2020.pdf'}
+- {name: 'Network', url: '../files/communication_network.html'}
+
+
 #- {name: 'Links', url: 'links.html'}
 #- {name: 'Contact', url: 'contact.html'}
 
