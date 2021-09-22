@@ -43,21 +43,7 @@ div .p {
 ***
 
     
-    <html> 
-  <head> 
-    <script src="jquery.js"></script> 
-    <script> 
-    $(function(){
-      $("#DivContent").load("../files/communication_network.html"); 
-    });
-    </script> 
-  </head> 
-
-  <body> 
-     <div id="DivContent"></div>
-  </body> 
-</html>
-
+<object data="../files/communication_network.html"></object>
 
 <script src="https://code.jquery.com/jquery-latest.min.js"
         type="text/javascript"></script>
