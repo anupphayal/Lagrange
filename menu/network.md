@@ -30,7 +30,7 @@ div .p {
 
 ***
 ## Network of Non-profit organizations in Wilmington Area
-(wait for figure to show up)
+(Please wait for figure to show up, use scroll to zoom)
 
 [//]:<ol reversed>
 [//]:  <li>Coffee</li>
