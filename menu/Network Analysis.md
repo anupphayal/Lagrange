@@ -42,10 +42,8 @@ div .p {
 
 ***
 
-0. [**"Network"**] (2020). [<a class='cl'>Abstract</a>]
-    <p class="abstract">
+0. [**"Network"**](../files/communication_network.html)
 
-    </p> <p> </p>
 
 <script src="https://code.jquery.com/jquery-latest.min.js"
         type="text/javascript"></script>
