@@ -29,7 +29,7 @@ div .p {
 
 
 ***
-## Netwrk of Non-profit organizations in Wilmington Area
+## Network of Non-profit organizations in Wilmington Area
 
 [//]:<ol reversed>
 [//]:  <li>Coffee</li>
@@ -44,9 +44,7 @@ div .p {
 
  <script src="jquery.js"></script> 
     <script> 
-    $(function(){
-      $("#includedContent").load("../files/communication_network.html"); 
-    });
+    .load("../files/communication_network.html"); 
     </script> 
 
 
