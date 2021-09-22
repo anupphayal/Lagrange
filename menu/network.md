@@ -42,7 +42,12 @@ div .p {
 
 ***
 
-0. [**"Network"**](../files/communication_network.html)
+ <script src="jquery.js"></script> 
+    <script> 
+    $(function(){
+      $("#includedContent").load("../files/communication_network.html"); 
+    });
+    </script> 
 
 
 <script src="https://code.jquery.com/jquery-latest.min.js"
