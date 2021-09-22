@@ -41,6 +41,15 @@ div .p {
 
 
 ***
+.center-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
 <html>
  <head>
  </head>
