@@ -29,7 +29,7 @@ div .p {
 
 
 ***
-## Peer-reviewed publications
+## Netwrk of Non-profit organizations in Wilmington Area
 
 [//]:<ol reversed>
 [//]:  <li>Coffee</li>
@@ -41,10 +41,11 @@ div .p {
 
 
 ***
-## Netwrk of Non-profit organizations in Wilmington Area
 
-* [**"Terrorism and trust"**](../files/research_folder/Full manuscript_terrorism and trust.pdf)
+0. [**"Network"**] (2020). [<a class='cl'>Abstract</a>]
+    <p class="abstract">
 
+    </p> <p> </p>
 
 <script src="https://code.jquery.com/jquery-latest.min.js"
         type="text/javascript"></script>
