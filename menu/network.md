@@ -42,10 +42,21 @@ div .p {
 
 ***
 
- <script src="jquery.js"></script> 
+    
+    <html> 
+  <head> 
+    <script src="jquery.js"></script> 
     <script> 
-    .load("../files/communication_network.html"); 
+    $(function(){
+      $("#DivContent").load("../files/communication_network.html"); 
+    });
     </script> 
+  </head> 
+
+  <body> 
+     <div id="DivContent"></div>
+  </body> 
+</html>
 
 
 <script src="https://code.jquery.com/jquery-latest.min.js"
