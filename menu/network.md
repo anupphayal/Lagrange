@@ -29,7 +29,7 @@ div .p {
 
 
 ***
-## Networks of Non-profit organizations in Wilmington Area
+## Network of Non-profit organizations in Wilmington Area
 
 [//]:<ol reversed>
 [//]:  <li>Coffee</li>
