@@ -18,19 +18,18 @@ div .p {
  .place_holder {
     height: 10px;
 }
-.fig{
-    background-color:yellow;
-    display: flex;
-     padding: 15px 25px;
+.fig{   
+   display: none;
+  padding: 15px 25px;
   margin: 0 5px 10px 5px;
-    justify-content:center
+  background-color: #EEE;
 }
 </style>
 
 
 
 ***
-## Network of Non-profit organizations in Wilmington Area
+## Networks of Non-profit organizations in Wilmington Area
 (Please wait for the figure to show up; use scroll to zoom)
 
 [//]:<ol reversed>
