@@ -44,7 +44,7 @@ div .p {
 
 
 <p class="fig">
-    <object data="../files/communication_network.html" ></object>
+    <object data="../files/communication_network.html" width="1000px" height="900px" ></object>
  </p> <p> </p>
   
 
