@@ -7,13 +7,12 @@ p.small {
     line-height: 0.5;
 }
 
-
 div .p {
     padding: 5px 0 10px 0;
 
 }
 .place_holder {
-    height: 10px; widtht: 10px;
+    height: 10px;
 }
 .cl{
     font-weight: bolder;
