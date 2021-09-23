@@ -27,7 +27,7 @@ div .p {
 
 
 ***
-## Network of Non-profit organizations in Wilmington Area
+## Networks of Non-profit organizations in Wilmington Area
 (Please wait for the figure to show up; use scroll to zoom)
 
 [//]:<ol reversed>
@@ -43,7 +43,7 @@ div .p {
 
 
 <p class="fig">
-    <object data="../files/communication_network.html" width="1000px" height="900px" ></object>
+    <object data="../files/communication_network.html" ></object>
  </p> <p> </p>
   
 
