@@ -27,8 +27,7 @@ div .p {
 .fig{
      background-color:yellow;
     display: flex;
-    padding: 40px 55px;
-    margin: 0 25px 20px 25px;
+    width="1600px" height="1200px" 
     justify-content:center
 }
 </style>
@@ -52,7 +51,7 @@ div .p {
 
 
 <p class="fig">
-    <object data="../files/communication_network.html" width="1600px" height="1200px" ></object>
+    <object data="../files/communication_network.html" ></object>
  </p> <p> </p>
   
 
