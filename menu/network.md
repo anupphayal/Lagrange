@@ -27,7 +27,7 @@ div .p {
 
 
 ***
-## Networks of Non-profit organizations in Wilmington Area
+## Collaboration Network of Non-profit organizations in Wilmington Area
 (Please wait for the figure to show up; use scroll to zoom)
 
 [//]:<ol reversed>
