@@ -11,11 +11,12 @@ div .p {
     padding: 5px 0 10px 0;
 
 }
-.place_holder {
-    height: 10px;
-}
+
 .cl{
     font-weight: bolder;
+}
+ .place_holder {
+    height: 10px;
 }
 .fig{
      background-color:yellow;
