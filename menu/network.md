@@ -20,14 +20,14 @@ div .p {
 }
 .fig{   
      object-fit: fill;
-    justify-content:center
+    
 }
 </style>
 
 
 
 ***
-## Network of Non-profit organizations in Wilmington Area
+## Networks of Non-profit organizations in Wilmington Area
 (Please wait for the figure to show up; use scroll to zoom)
 
 [//]:<ol reversed>
