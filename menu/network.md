@@ -9,7 +9,6 @@ p.small {
 
 div .p {
     padding: 5px 0 10px 0;
-
 }
 
 .cl{
@@ -20,7 +19,7 @@ div .p {
 }
 .fig{   
      object-fit: contain;
-    
+    width=100% ; height=100%;
 }
 </style>
 
