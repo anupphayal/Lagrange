@@ -12,6 +12,9 @@ div .p {
     padding: 5px 0 10px 0;
 
 }
+.place_holder {
+    height: 10px; widtht: 10px;
+}
 .cl{
     font-weight: bolder;
 }
@@ -25,7 +28,7 @@ div .p {
 
 
 ***
-## Network of Non-profit organizations in Wilmington Area
+## Networks of Non-profit organizations in Wilmington Area
 (Please wait for the figure to show up; use scroll to zoom)
 
 [//]:<ol reversed>
