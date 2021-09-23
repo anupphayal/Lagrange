@@ -27,6 +27,8 @@ div .p {
 .fig{
      background-color:yellow;
     display: flex;
+    padding: 25px 55px;
+    margin: 0 10px 20px 10px;
     justify-content:center
 }
 </style>
