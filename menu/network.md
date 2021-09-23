@@ -19,8 +19,7 @@ div .p {
     height: 10px;
 }
 .fig{   
-    background-color:yellow;
-    display: flex;
+     object-fit: fill;
     justify-content:center
 }
 </style>
