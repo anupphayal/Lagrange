@@ -1,5 +1,5 @@
 ---
-layout: page3
+layout: page2
 title: Network
 ---
 <style>
