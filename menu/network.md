@@ -24,6 +24,11 @@ div .p {
 .place_holder {
     height: 10px;
 }
+.fig{
+     background-color:yellow;
+    display: flex;
+    justify-content:center
+}
 </style>
 
 
@@ -44,9 +49,9 @@ div .p {
 ***
 
 
-<div align="center">
+<p class="fig">
     <object data="../files/communication_network.html" width="1600px" height="1200px" ></object>
-</div>
+ </p> <p> </p>
   
 
 
