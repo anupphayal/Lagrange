@@ -21,8 +21,6 @@ div .p {
 .fig{   
     background-color:yellow;
     display: flex;
-     padding: 15px 25px;
-  margin: 0 5px 10px 5px;
     justify-content:center
 }
 </style>
@@ -30,7 +28,7 @@ div .p {
 
 
 ***
-## Networks of Non-profit organizations in Wilmington Area
+## Network of Non-profit organizations in Wilmington Area
 (Please wait for the figure to show up; use scroll to zoom)
 
 [//]:<ol reversed>
