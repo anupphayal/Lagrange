@@ -19,7 +19,7 @@ div .p {
     height: 10px;
 }
 .fig{   
-     object-fit: fill;
+     object-fit: contain;
     
 }
 </style>
@@ -27,7 +27,7 @@ div .p {
 
 
 ***
-## Networks of Non-profit organizations in Wilmington Area
+## Network of Non-profit organizations in Wilmington Area
 (Please wait for the figure to show up; use scroll to zoom)
 
 [//]:<ol reversed>
