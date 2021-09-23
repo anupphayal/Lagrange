@@ -1,5 +1,5 @@
 ---
-layout: page3
+layout: page2
 title: Network
 ---
 <style>
@@ -38,7 +38,7 @@ div .p {
 [//]:  <li>Milk</li>
 [//]:</ol>
 
-[//]: This is for the Network analysis with Cape Fear collective
+[//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 
 ***
@@ -53,10 +53,3 @@ div .p {
 <script src="https://code.jquery.com/jquery-latest.min.js"
         type="text/javascript"></script>
 
-<script>
-$(document).ready(function(){
-  $(document).on('click touchstart','.cl', function() {
-    $(this).parent().children(".abstract").fadeToggle();
-  });
-});
-</script>
