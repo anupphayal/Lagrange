@@ -43,7 +43,7 @@ div .p {
 
 
 <p class="fig">
-    <object data="../files/communication_network.html" ></object>
+    <object data="../files/communication_network.html" height="900px" width="900px" ></object>
  </p> <p> </p>
   
 
