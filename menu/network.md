@@ -22,7 +22,6 @@ div .p {
 .fig{
      background-color:yellow;
     display: flex;
-    width="1600px" height="1200px" 
     justify-content:center
 }
 </style>
