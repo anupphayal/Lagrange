@@ -17,7 +17,7 @@ div .p {
 }
 
 .place_holder {
-    height: 10px; widtht: 10px;
+    height: 100px; widtht: 10px;
 }
 .fig{
      background-color:yellow;
@@ -29,7 +29,7 @@ div .p {
 
 
 ***
-## Networks of Non-profit organizations in Wilmington Area
+## Network of Non-profit organizations in Wilmington Area
 (Please wait for the figure to show up; use scroll to zoom)
 
 [//]:<ol reversed>
