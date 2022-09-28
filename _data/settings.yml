@@ -19,7 +19,7 @@ menu:
 - {name: 'Research', url: 'research.html'}
 #- {name: 'Teaching', url: 'teaching.html'}
 - {name: 'Network', url: 'network.html'}
-- {name: 'test', url: '../files/presentation_script.html'}
+
 
 
 #- {name: 'Links', url: 'links.html'}
