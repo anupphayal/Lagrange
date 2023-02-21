@@ -1,6 +1,6 @@
 ---
+title: "Home"
 layout: page2
-title: Home
 ---
 ![alt text](./files/UNCWEntrance2.jpg)
 
